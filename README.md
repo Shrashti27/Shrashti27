@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding,making new projects,teamwork 
 - 🌱 I’m currently pursuing B.tech cse(AI/ML).
 - 💞️ I’m looking to collaborate on python projects 
-- 📫 How to reach me through LinkedIn 
+- 📫 you can  reach me through LinkedIn 
 
 <!---
 Shrashti27/Shrashti27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
