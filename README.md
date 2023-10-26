@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shrashti27
 - 👀 I’m interested in coding,making new projects,teamwork 
-- 🌱 I’m currently pursuing B.tech cse(AI/ML).
-- 💞️ I’m looking to collaborate on python projects 
+- 🌱Currently pursuing B.tech cse(AI/ML).
+- 💞️Looking to collaborate on python projects 
 - 📫 you can  reach me through LinkedIn 
 
 <!---
